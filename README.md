@@ -18,3 +18,9 @@ We began our project by researching existing Tongits games on the App Store. Our
 | Tong-Itan | Social Tongits |
 | :-------------:|:-------------:|
 | ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/TongItan.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/SocialTongits.png) |
+
+### Design Process
+After we identified key painpoints users might experience with existing Tongits games, we began the design process for our game. Through weekly meetings involving extensive discussion of the interface design and many whiteboard sketches, we constructed an ideal setup interface for the game. After a few more discussions, we realized our design was also quite cluttered and decided that we should limit showing cards unnecessarily. 
+| Interface 1 | Interface 2 |
+| :-------------:|:-------------:|
+| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/TongItan.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/SocialTongits.png) |
