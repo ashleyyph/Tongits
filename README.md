@@ -24,13 +24,13 @@ After we identified key painpoints users might experience with existing Tongits 
 
 | Southeast Asian Inspiration | Filipino Inspiration |
 | :-------------:|:-------------:|
-| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
+| ![SEA](https://github.com/ashleyyph/Tongits/raw/master/SEA.png) | ![PH](https://github.com/ashleyyph/Tongits/raw/master/Philippines.png) |
 
 From a technical standpoint, one major goal of ours was to create an intuitive interface for players. Through weekly meetings involving extensive discussion of the interface design and many whiteboard sketches, we constructed an ideal setup interface for the game. After a few more discussions, we realized our design was also quite cluttered and decided that we should limit showing cards unnecessarily. 
 
 | Interface V1 | Interface V2 |
 | :-------------:|:-------------:|
-| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
+| ![InterfaceV1](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![InterfaceV2](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
 
 At this point, we felt that our design had reached an acceptable point for the software development of the game to begin without any major issues or changes during development. Using Android Studio, the developers on the team worked together to code interactive aspects of the game, like the process of drawing or discarding a card, in addition to some more boring stuff, like the settings page. 
 
