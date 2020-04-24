@@ -53,9 +53,11 @@ We put the last touches on the card illustrations and began working on the artis
 
 At last, our project seemed ready to present. We were all super excited going into Demo Day, and though project presentations went for over two hours, everyone seemed to share our energy throughout!
 
+| Intro | Problem |
 | :-------------:|:-------------:|
 | ![Slide 1](https://github.com/ashleyyph/Tongits/raw/master/slide1.png) | ![Slide 2](https://github.com/ashleyyph/Tongits/raw/master/slide2.png) |
 
+| Solution | Process |
 | :-------------:|:-------------:|
 | ![Slide 3](https://github.com/ashleyyph/Tongits/raw/master/slide3.png) | ![Slide 5](https://github.com/ashleyyph/Tongits/raw/master/slide5.png) |
 
