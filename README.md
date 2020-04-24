@@ -47,4 +47,19 @@ As Demo Day (when all the project teams from the cycle come together to present 
 
 We put the last touches on the card illustrations and began working on the artistic aspect of the actual user interface. Despite some minor disagreements over graphic elements and colors, we were able to find compromise and produce a finalized version of the interface spanning several frames in time for the developers to code before Demo Day.
 
+| Final Frames |
+| :-------------:|
+| ![FinalTongits](https://github.com/ashleyyph/Tongits/raw/master/FinalTongits.png) |
+
+At last, our project seemed ready to present. We were all super excited going into Demo Day, and though project presentations went for over two hours, everyone seemed to share our energy throughout!
+
+| :-------------:|:-------------:|
+| ![Slide 1](https://github.com/ashleyyph/Tongits/raw/master/slide1.png) | ![Slide 2](https://github.com/ashleyyph/Tongits/raw/master/slide2.png) |
+
+| :-------------:|:-------------:|
+| ![Slide 3](https://github.com/ashleyyph/Tongits/raw/master/slide3.png) | ![Slide 5](https://github.com/ashleyyph/Tongits/raw/master/slide5.png) |
+
+| Thank you to our amazing team! |
+| :-------------:|
+| ![Slide 4](https://github.com/ashleyyph/Tongits/raw/master/slide4.png) |
 
