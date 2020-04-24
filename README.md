@@ -19,8 +19,21 @@ We began our project by researching existing Tongits games on the App Store. Our
 | :-------------:|:-------------:|
 | ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/TongItan.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/SocialTongits.png) |
 
-### Design Process
-After we identified key painpoints users might experience with existing Tongits games, we began the design process for our game. Through weekly meetings involving extensive discussion of the interface design and many whiteboard sketches, we constructed an ideal setup interface for the game. After a few more discussions, we realized our design was also quite cluttered and decided that we should limit showing cards unnecessarily. 
-| Interface 1 | Interface 2 |
+### Design and Development Process
+After we identified key painpoints users might experience with existing Tongits games, we began the design process for our game. From an artistic standpoint, two major goals of ours were to create a more engaging design and to convey Filipino (and more generally, Southeast Asian) culture through the game. As a project lead, I worked closely with our illustrator to develop artistic inspiration and study eye-catching graphics, then integrate these into our design decisions.
+
+| Southeast Asian Inspiration | Filipino Inspiration |
 | :-------------:|:-------------:|
-| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/TongItan.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/SocialTongits.png) |
+| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
+
+From a technical standpoint, one major goal of ours was to create an intuitive interface for players. Through weekly meetings involving extensive discussion of the interface design and many whiteboard sketches, we constructed an ideal setup interface for the game. After a few more discussions, we realized our design was also quite cluttered and decided that we should limit showing cards unnecessarily. 
+
+| Interface V1 | Interface V2 |
+| :-------------:|:-------------:|
+| ![TongItan](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![SocialTongits](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
+
+At this point, we felt that our design had reached an acceptable point for the software development of the game to begin without any major issues or changes during development. Using Android Studio, the developers on the team worked together to code interactive aspects of the game, like the process of drawing or discarding a card, in addition to some more boring stuff, like the settings page. 
+
+A major challenge we ran into was the development of a computer for the player to play against. At first, we made a dummy AI to ensure that the interaction was functional at the very least. Once we established functionality, we began to write a logical list of considerations for the AI to make during each turn in order to optimize its chance of winning. We played a few games in real life to confirm that we weren't missing anything, and then we began to code the AI. It turned out surprisingly great at the game, likely because its memory (helpful for card counting?) and precision (no human error here). 
+
+Around this time, we also 
