@@ -28,9 +28,9 @@ After we identified key painpoints users might experience with existing Tongits 
 
 From a technical standpoint, one major goal of ours was to create an intuitive interface for players. Through weekly meetings involving extensive discussion of the interface design and many whiteboard sketches, we constructed an ideal setup interface for the game. After a few more discussions, we realized our design was also quite cluttered and decided that we should limit showing cards unnecessarily. 
 
-| Interface V1 | Interface V2 |
-| :-------------:|:-------------:|
-| ![InterfaceV1](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![InterfaceV2](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
+| Landing V1 | Interface V1 | Interface V2 |
+| :-------------:|:-------------:|:-------------:|
+| ![LandingV1](https://github.com/ashleyyph/Tongits/raw/master/Landing.png) | ![InterfaceV1](https://github.com/ashleyyph/Tongits/raw/master/Wireframe.png) | ![InterfaceV2](https://github.com/ashleyyph/Tongits/raw/master/Wireframe2.png) |
 
 At this point, we felt that our design had reached an acceptable point for the software development of the game to begin without any major issues or changes during development. Using Android Studio, the developers on the team worked together to code interactive aspects of the game, like the process of drawing or discarding a card, in addition to some more boring stuff, like the settings page. 
 
@@ -38,7 +38,7 @@ A major challenge we ran into was the development of a computer for the player t
 
 Around this time, we also received the almost complete card illustrations from our illustrator! As project leads, we were really happy because the project we had envisioned from the beginning seemed to finally be coming to fruition, and the visual representation of the cards only furthered our joy.
 
-# Demo Day
+### Demo Day
 As Demo Day (when all the project teams from the cycle come together to present their work) approached, we began to feel more pressure to tie all the loose ends that remained of our project and wrap it up. While Henry and our developrs worked frantically to fix bugs in the code, I worked with our UI/UX designer and illustrator to create materials marketing and documenting the progress of our project. We posted the following images on social media to increase anticipation for our project!
 
 | Tongits! | Instructions |
