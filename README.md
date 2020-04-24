@@ -36,4 +36,15 @@ At this point, we felt that our design had reached an acceptable point for the s
 
 A major challenge we ran into was the development of a computer for the player to play against. At first, we made a dummy AI to ensure that the interaction was functional at the very least. Once we established functionality, we began to write a logical list of considerations for the AI to make during each turn in order to optimize its chance of winning. We played a few games in real life to confirm that we weren't missing anything, and then we began to code the AI. It turned out surprisingly great at the game, likely because its memory (helpful for card counting?) and precision (no human error here). 
 
-Around this time, we also 
+Around this time, we also received the almost complete card illustrations from our illustrator! As project leads, we were really happy because the project we had envisioned from the beginning seemed to finally be coming to fruition, and the visual representation of the cards only furthered our joy.
+
+# Demo Day
+As Demo Day (when all the project teams from the cycle come together to present their work) approached, we began to feel more pressure to tie all the loose ends that remained of our project and wrap it up. While Henry and our developrs worked frantically to fix bugs in the code, I worked with our UI/UX designer and illustrator to create materials marketing and documenting the progress of our project. We posted the following images on social media to increase anticipation for our project!
+
+| Tongits! | Instructions |
+| :-------------:|:-------------:|
+| ![Tongits](https://github.com/ashleyyph/Tongits/raw/master/tongits.png) | ![Instructions](https://github.com/ashleyyph/Tongits/raw/master/instructions.png) |
+
+We put the last touches on the card illustrations and began working on the artistic aspect of the actual user interface. Despite some minor disagreements over graphic elements and colors, we were able to find compromise and produce a finalized version of the interface spanning several frames in time for the developers to code before Demo Day.
+
+
